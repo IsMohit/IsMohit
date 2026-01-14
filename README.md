@@ -88,7 +88,7 @@ learning:
   - Cloud & DevSecOps Security
 
 building:
-  - DevSecOps automation tools
+  - DevOps automation tools
   - Linux & Cloud security projects
   - Scalable cloud-native infrastructure
 ```

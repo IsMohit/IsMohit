@@ -90,7 +90,31 @@ learning:
 building:
   - DevSecOps automation tools
   - Linux & Cloud security projects
-  - Scalable cloud-native infrastructure
-🤝 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/mohit-khambekar"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/IsMohit"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:mohitkhambekar@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=IsMohit&style=flat-square&color=blueviolet&label=Profile+Views"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+👋;Let's+build+something+impactful!+🚀" /> </div> ```
+  - Scalable cloud-native infrastructure 
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohit-khambekar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/IsMohit">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:mohitkhambekar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsMohit&style=flat-square&color=blueviolet&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+👋;Let's+build+something+impactful!+🚀" />
+</div>

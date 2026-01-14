@@ -90,7 +90,9 @@ learning:
 building:
   - DevSecOps automation tools
   - Linux & Cloud security projects
-  - Scalable cloud-native infrastructure 
+  - Scalable cloud-native infrastructure
+```
+
 ## 🤝 Connect With Me
 
 <p align="center">

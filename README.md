@@ -75,7 +75,6 @@
 </p>
 
 <div align="center">
-```yaml
 learning:
   - Kubernetes & Container Orchestration
   - Advanced CI/CD Pipelines

@@ -1,9 +1,9 @@
-<div align="center">[
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Mohit+Khambekar;DevOps+Engineer;Linux+%26+Automation+Enthusiast;Open+Source+Contributor](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Mohit+Khambekar;DevOps+Engineer;Linux+%26+Automation+Enthusiast;Open+Source+Contributor" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Mohit+Khambekar;DevOps+Engineer;Linux+%26+Automation+Enthusiast;Open+Source+Contributor" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
 ---

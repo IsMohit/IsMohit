@@ -100,11 +100,8 @@ building:
   - DevSecOps automation tools
   - ML-based security systems
   - Scalable cloud infrastructure
-```
 
 </div>
-
----
 
 <h2 align="center">🤝 Connect With Me</h2>
 
@@ -133,36 +130,8 @@ building:
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Footer" />
 </div>
-```
 
----
 
-## 🎨 **Customization Guide:**
-
-### **To Use This:**
-1. Create a new repository with **your username** (e.g., `IsMohit/IsMohit`)
-2. Create a `README.md` file
-3. Paste this code
-4. Push to GitHub
-
-### **Replace These:**
-- `IsMohit` → Your GitHub username (appears in URLs and stats)
-- Credly badge links → Your actual badge links
-- Email, LinkedIn → Your actual links
-- Ansible Galaxy link → Your profile link
-
-### **Optional Customizations:**
-
-#### **Change Color Themes:**
-Available themes for GitHub stats:
-- `tokyonight` (current)
-- `radical`
-- `merko`
-- `gruvbox`
-- `dracula`
-- `monokai`
-- `vue`
-- `dark`
 
 Just replace `theme=tokyonight` with your choice.
 

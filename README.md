@@ -130,12 +130,3 @@ building:
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Footer" />
 </div>
-
-
-
-Just replace `theme=tokyonight` with your choice.
-
-#### **Add More Skill Icons:**
-Visit https://skillicons.dev/ and generate custom icons:
-```
-https://skillicons.dev/icons?i=linux,python,docker,kubernetes,terraform
